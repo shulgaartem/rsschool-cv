@@ -1,3 +1,3 @@
 # Artem Shulga
 # Contact
-#feat: implement search box
+# implement search box
